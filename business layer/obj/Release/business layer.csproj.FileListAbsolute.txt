@@ -1,0 +1,9 @@
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\business layer\bin\Release\business layer.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\business layer\bin\Release\business layer.pdb
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\business layer\bin\Release\Data Acess layer.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\business layer\bin\Release\property layer.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\business layer\bin\Release\property layer.pdb
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\business layer\bin\Release\Data Acess layer.pdb
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\business layer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\business layer\obj\Release\business layer.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\business layer\obj\Release\business layer.pdb

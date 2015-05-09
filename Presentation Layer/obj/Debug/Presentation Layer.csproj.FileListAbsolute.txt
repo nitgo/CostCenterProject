@@ -1,0 +1,107 @@
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\Presentation Layer.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\Presentation Layer.pdb
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\obj\Debug\Presentation Layer.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\obj\Debug\Presentation Layer.pdb
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\business layer.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\property layer.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\business layer.pdb
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\property layer.pdb
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\AjaxControlToolkit.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\AjaxControlToolkit.pdb
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\ar\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\cs\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\de\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\es\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\fr\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\he\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\hi\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\it\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\ja\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\ko\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\nl\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\pt\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\ru\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\Data Acess layer.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Presentation Layer\bin\Data Acess layer.pdb
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\Presentation Layer.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\Presentation Layer.pdb
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\business layer.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\Data Acess layer.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\property layer.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\AjaxControlToolkit.pdb
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\Data Acess layer.pdb
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\property layer.pdb
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\business layer.pdb
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\obj\Debug\Presentation Layer.dll
+C:\Users\admin\Desktop\software\Solution1\Presentation Layer\obj\Debug\Presentation Layer.pdb
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\Presentation Layer.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\Presentation Layer.pdb
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\business layer.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\Data Acess layer.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\property layer.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\AjaxControlToolkit.pdb
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\Data Acess layer.pdb
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\property layer.pdb
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\business layer.pdb
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\ar\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\cs\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\de\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\es\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\fr\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\he\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\hi\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\it\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\ja\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\ko\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\nl\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\pt\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\ru\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\obj\Debug\Presentation Layer.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\Presentation Layer\obj\Debug\Presentation Layer.pdb
+D:\software\Solution1\Presentation Layer\bin\Presentation Layer.dll
+D:\software\Solution1\Presentation Layer\bin\Presentation Layer.pdb
+D:\software\Solution1\Presentation Layer\bin\business layer.dll
+D:\software\Solution1\Presentation Layer\bin\Data Acess layer.dll
+D:\software\Solution1\Presentation Layer\bin\property layer.dll
+D:\software\Solution1\Presentation Layer\bin\Data Acess layer.pdb
+D:\software\Solution1\Presentation Layer\bin\property layer.pdb
+D:\software\Solution1\Presentation Layer\bin\business layer.pdb
+D:\software\Solution1\Presentation Layer\obj\Debug\ResolveAssemblyReference.cache
+D:\software\Solution1\Presentation Layer\obj\Debug\Presentation Layer.dll
+D:\software\Solution1\Presentation Layer\obj\Debug\Presentation Layer.pdb
+F:\Nitin docs_ms application\work\Solution1\Presentation Layer\bin\Presentation Layer.dll
+F:\Nitin docs_ms application\work\Solution1\Presentation Layer\bin\Presentation Layer.pdb
+F:\Nitin docs_ms application\work\Solution1\Presentation Layer\bin\business layer.dll
+F:\Nitin docs_ms application\work\Solution1\Presentation Layer\bin\Data Acess layer.dll
+F:\Nitin docs_ms application\work\Solution1\Presentation Layer\bin\property layer.dll
+F:\Nitin docs_ms application\work\Solution1\Presentation Layer\bin\business layer.pdb
+F:\Nitin docs_ms application\work\Solution1\Presentation Layer\bin\Data Acess layer.pdb
+F:\Nitin docs_ms application\work\Solution1\Presentation Layer\bin\property layer.pdb
+F:\Nitin docs_ms application\work\Solution1\Presentation Layer\obj\Debug\Presentation Layer.csprojResolveAssemblyReference.cache
+F:\Nitin docs_ms application\work\Solution1\Presentation Layer\obj\Debug\Presentation Layer.dll
+F:\Nitin docs_ms application\work\Solution1\Presentation Layer\obj\Debug\Presentation Layer.pdb

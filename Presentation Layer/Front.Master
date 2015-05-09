@@ -1,0 +1,79 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Front.master.cs" Inherits="Presentation_Layer.Front" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Hardware Store</title>
+    <link href="styles.css" rel="stylesheet" type="text/css" />
+
+    <script language="javascript" type="text/javascript">
+        javascript: window.history.forward(1);
+    </script>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="main">
+        <!-- header begins -->
+        <div id="header">
+            <div id="logo">
+                <img src="images/studio one.jpg" alt="" width="270px" height="95px" />
+            </div>
+            <div>
+
+                <script type="text/javascript" src="http://www.24webclock.com/clock24.js"></script>
+
+                <table border="0" bgcolor="#5F6364" cellspacing="1" cellpadding="3" class="clock24st"
+                    style="line-height: 14px; padding: 0;">
+                    <tr>
+                        <td bgcolor="#DCE8E8" class="clock24std" style="font-family: arial; font-size: 12px;">
+                            <a href="http://www.24webclock.com/de/">
+                                <img src="http://www.24webclock.com/ico.gif" width="14" height="14" border="0" alt="gratis homepage uhr"
+                                    align="left" hspace="2"></a> <a href="http://www.24webclock.com/" style="text-decoration: none;">
+                                        <span class="clock24s" id="clock24_79638" style="color: #5F6364;">clocks for websites</span></a>
+                        </td>
+                    </tr>
+                </table>
+
+                <script type="text/javascript">                                                                                                                                     
+var clock24_79638 = new clock24('79638',330,'%dd/%mm/%yyyy %W %HH:%nn:%ss %P','en');
+clock24_79638.daylight('IN'); clock24_79638.refresh();
+                </script>
+
+            </div>
+            <div class="menu">
+                <ul>
+                    <li><a class="active" href="Default.aspx">Home</a></li>
+                    <li><a href="AddNewItem.aspx">Add Items</a></li>
+                    <li><a href="SearchItem.aspx">View/Search Items</a></li>
+                    <li><a href="WebForm1.aspx">Calculate Cost</a></li>
+                    <li class="last"><a href="ViewHistory.aspx">View Purchase History</a></li>
+                </ul>
+            </div>
+            <div class="clr">
+            </div>
+        </div>
+        <!-- header ends -->
+        <div id="main_content">
+            <div id="left">
+                <asp:ImageButton ID="lnklogout" ImageUrl="~/images/h_logout.gif" runat="server" OnClick="lnklogout_Click" />
+            </div>
+            <div id="right">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolderMid" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <div class="clr">
+            </div>
+        </div>
+        <!-- footer begins -->
+        <div id="footer">
+            <p>
+                © 2012 -Hardware Store&nbsp;&nbsp;
+            
+                </p>
+        </div>
+    </div>
+    </form>
+</body>
+</html>
+

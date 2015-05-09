@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\property layer\bin\Release\property layer.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\property layer\bin\Release\property layer.pdb
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\property layer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\property layer\obj\Release\property layer.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\property layer\obj\Release\property layer.pdb

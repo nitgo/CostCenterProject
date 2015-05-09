@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Data Acess layer\bin\Release\Data Acess layer.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Data Acess layer\bin\Release\Data Acess layer.pdb
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Data Acess layer\bin\Release\property layer.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Data Acess layer\bin\Release\property layer.pdb
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Data Acess layer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Data Acess layer\obj\Release\Data Acess layer.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\Data Acess layer\obj\Release\Data Acess layer.pdb

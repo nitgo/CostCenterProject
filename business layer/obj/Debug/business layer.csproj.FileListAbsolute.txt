@@ -1,0 +1,45 @@
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\business layer\bin\Debug\business layer.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\business layer\bin\Debug\business layer.pdb
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\business layer\bin\Debug\Data Acess layer.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\business layer\bin\Debug\property layer.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\business layer\bin\Debug\property layer.pdb
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\business layer\bin\Debug\Data Acess layer.pdb
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\business layer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\business layer\obj\Debug\business layer.dll
+C:\Documents and Settings\Administrator\Desktop\software\Solution1\business layer\obj\Debug\business layer.pdb
+C:\Users\admin\Desktop\software\Solution1\business layer\bin\Debug\business layer.dll
+C:\Users\admin\Desktop\software\Solution1\business layer\bin\Debug\business layer.pdb
+C:\Users\admin\Desktop\software\Solution1\business layer\bin\Debug\Data Acess layer.dll
+C:\Users\admin\Desktop\software\Solution1\business layer\bin\Debug\property layer.dll
+C:\Users\admin\Desktop\software\Solution1\business layer\bin\Debug\property layer.pdb
+C:\Users\admin\Desktop\software\Solution1\business layer\bin\Debug\Data Acess layer.pdb
+C:\Users\admin\Desktop\software\Solution1\business layer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\software\Solution1\business layer\obj\Debug\business layer.dll
+C:\Users\admin\Desktop\software\Solution1\business layer\obj\Debug\business layer.pdb
+C:\Documents and Settings\owner\Desktop\software\Solution1\business layer\bin\Debug\business layer.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\business layer\bin\Debug\business layer.pdb
+C:\Documents and Settings\owner\Desktop\software\Solution1\business layer\bin\Debug\Data Acess layer.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\business layer\bin\Debug\property layer.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\business layer\bin\Debug\property layer.pdb
+C:\Documents and Settings\owner\Desktop\software\Solution1\business layer\bin\Debug\Data Acess layer.pdb
+C:\Documents and Settings\owner\Desktop\software\Solution1\business layer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\owner\Desktop\software\Solution1\business layer\obj\Debug\business layer.dll
+C:\Documents and Settings\owner\Desktop\software\Solution1\business layer\obj\Debug\business layer.pdb
+D:\software\Solution1\business layer\bin\Debug\business layer.dll
+D:\software\Solution1\business layer\bin\Debug\business layer.pdb
+D:\software\Solution1\business layer\bin\Debug\Data Acess layer.dll
+D:\software\Solution1\business layer\bin\Debug\property layer.dll
+D:\software\Solution1\business layer\bin\Debug\property layer.pdb
+D:\software\Solution1\business layer\bin\Debug\Data Acess layer.pdb
+D:\software\Solution1\business layer\obj\Debug\ResolveAssemblyReference.cache
+D:\software\Solution1\business layer\obj\Debug\business layer.dll
+D:\software\Solution1\business layer\obj\Debug\business layer.pdb
+F:\Nitin docs_ms application\work\Solution1\business layer\bin\Debug\business layer.dll
+F:\Nitin docs_ms application\work\Solution1\business layer\bin\Debug\business layer.pdb
+F:\Nitin docs_ms application\work\Solution1\business layer\bin\Debug\Data Acess layer.dll
+F:\Nitin docs_ms application\work\Solution1\business layer\bin\Debug\property layer.dll
+F:\Nitin docs_ms application\work\Solution1\business layer\bin\Debug\Data Acess layer.pdb
+F:\Nitin docs_ms application\work\Solution1\business layer\bin\Debug\property layer.pdb
+F:\Nitin docs_ms application\work\Solution1\business layer\obj\Debug\business layer.csprojResolveAssemblyReference.cache
+F:\Nitin docs_ms application\work\Solution1\business layer\obj\Debug\business layer.dll
+F:\Nitin docs_ms application\work\Solution1\business layer\obj\Debug\business layer.pdb
